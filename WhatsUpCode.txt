@@ -9,3 +9,5 @@ Author: Rathanson
 3. Last seen code
 
 4. Attachments (Image , Audio ,Video) code
+
+5. Hide the last seen 
